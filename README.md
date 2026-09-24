@@ -20,7 +20,7 @@ Open `Server.csproj` in Visual Studio 2015 or later (ToolsVersion 14.0). There i
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.Server`. Assembly title/product `DR Planning Server`; copyright 2015 with empty company. Namespace `DR_Planning_Server`. Obj cache paths show the original machine folder `VS Projects\DR Planning Tool\Server`.
+Working copy from my Historical Dev folder `VaderConsulting.Server`. Assembly title/product `DR Planning Server`; copyright 2015 with empty company. Namespace `DR_Planning_Server`. Obj cache paths show the original machine folder `VS Projects\DR Planning Tool\Server`.
 
 ## License
 
